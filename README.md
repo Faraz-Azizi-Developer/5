@@ -2,9 +2,9 @@
 
 **Sample Hotel site**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![image psd](https://github.com/Faraz-Azizi-Developer/5/assets/140517125/305d2183-664c-45b8-a8ce-66328674caa4)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+
 
 - [Demo Project](https://faraz-azizi-developer.github.io/5/)
 
